@@ -38,8 +38,13 @@ How would branches help?
 Each new feature a branch
 
 How do the diagrams help you visualize the branch structure?
+I can understand the history of commits.
 
-What is the result of merging two branches together? Why do we represent it in
+
+
+What is the result of merging two branches together?
+Merging code ! 
+ Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
